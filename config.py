@@ -1,3 +1,0 @@
-API_KEY = "sk_us_G-TGOohuAg-zYAL7B6P8qdHyjMBN1nj_1lUBDF5zlaA"
-ENVIRONMENT = "SANDBOX"
-user_id = "db644aaa-c314-4616-b1f1-836f87cad39c"
